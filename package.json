@@ -1,0 +1,7 @@
+{
+    "name"        : "framework-wizio-stm",
+    "description" : "PlatformIO Framework for STM32",
+    "url"         : "https://github.com/raspberrypi/framework-wizio-stm",
+    "system"      : "*",
+    "version"     : "1.0.0"
+}
